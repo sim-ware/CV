@@ -1,6 +1,6 @@
 ## Samir Gossain
 
-I a former self-employed tutor with experience in Primary School Education and Property Management. I learnt to code to stay relevant in an increasingly digitized world. I was introduced to the wonders of software craftsmanship by the passionate staff and students of Makers Academy
+I a former self-employed tutor with experience in Primary School Education and Property Management. I learnt to code to stay relevant in an increasingly digitised world. I was introduced to the wonders of software craftsmanship by the passionate staff and students of Makers Academy
 
 I'm looking for a Full Stack(overflow) Junior Developer role to expand my mind, in a team that loves developing great software as much as it loves developing great people.
 
@@ -8,7 +8,7 @@ I'm looking for a Full Stack(overflow) Junior Developer role to expand my mind, 
 
 #### Communication
 
-When teaching, either as a Tennis Coach, Teaching Assistant, or most recently as a Personal Tutor, understanding the individual's character, and tailoring my communication to suit them was necessary for success. I encountered a range of challenges, from the diverse and unpredictable behaviour of students with Learning Difficulties, to explaining the more abstract themes of classic literature to young minds. These helped me develop a personal intuition, patience and understanding.  
+When teaching, either as a Tennis Coach, Teaching Assistant, or most recently as a Personal Tutor, understanding the individual's character, and tailoring my communication to suit them was necessary for success. I encountered a range of challenges, from the diverse and unpredictable behaviour of students with Learning Difficulties, to explaining the more abstract themes of classic literature to young minds. These helped me develop personal intuition, patience and understanding.  
 
 #### Analysis
 
@@ -39,13 +39,22 @@ In my work so far I have dealt with a range of new environments and personalitie
 
 ## Experience
 
-**Self-Employed** (start_date to end_date)    
+**Self-Employed** (December 2015 to November 2016)    
 *Tutoring*  
-**UrbanPoint Property Management** (start_date to end_date)   
+Tutored clients ranging from Primary School to A-Level standard in English.
+
+**UrbanPoint Property Management** (April 2015 to December 2015)   
 *Accounts Analyst*  
-**St. Joseph's Catholic Primary School** (start_date to end_date)   
+Organised client accounts and data, input housing legal contract information into system software, supported customer service by taking calls and payments and handling legal queries.
+
+**St. Joseph's Catholic Primary School** (October 2014 to January 2015)   
 *Year 5 Teaching Assistant*
-**Waitrose** (start_date to end_date)   
+Taught Maths and Literacy to Year 5 students, with focus on supporting those with learning difficulties.
+
+**Waitrose** (November 2010 to March 2011)   
 *Food Service Partner*
-**New Malden Tennis, Squash, and Badminton Club** (start_date to end_date)   
+Worked full-time serving on the fresh food counters, handling customer requests and enquiries and maintaining an organised an attractive counter-front.
+
+**New Malden Tennis, Squash, and Badminton Club** (July 2007 to July 2009)   
 *Tennis Coach*
+Coached students aged 4 - 18 every Saturday.
