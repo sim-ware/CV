@@ -38,6 +38,13 @@ Fix City | Council report app | 1 week | Google API, Javascript, Ruby on Rails |
 Capy B'n'B | Guest Room booking website | 1 week | Ruby, Javascript | Capybara, Jasmine, RSpec
 PineappleGram | Instagram clone | 1 week | Ruby on Rails | Capybara, RSpec
 
+| TITLE         | DESCRIPTION                | DEVELOPMENT TIME  |TECHNOLOGY                             |TESTING          | 		
+|---------------|----------------------------|-----------------------------------------------------------------------------| 		
+| Fix City      | Council Report App         | 1 week            | Google API, Javascript, Ruby on Rails |Capybara, RSpec  | 		
+| Capy B'n'B    | Guest Room Booking Website | 1 week            | Ruby, Javascript                      |Capybara, RSpec  | 		
+| PineappleGram | Instagram-like Website     | 1 week            | Ruby on Rails                         |Capybara, RSpec  |
+
+
 #### University College London (Sep 2011 to Jun 2014)
 
 - English Language and Literature
