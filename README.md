@@ -1,33 +1,23 @@
 ## Samir Gossain
 
-- Former self-employed tutor
-- Learnt to code in hope of staying relevant in increasingly digitized world
-- Introduced to wonders of code by the passionate staff and students of Makers Academy
-- Looking for a full stack(overflow) Junior Developer role to expand my mind, in a team that loves developing great software as much as it loves developing great people.
+I a former self-employed tutor with experience in Primary School Education and Property Management. I learnt to code to stay relevant in an increasingly digitized world. I was introduced to the wonders of software craftsmanship by the passionate staff and students of Makers Academy
+
+I'm looking for a Full Stack(overflow) Junior Developer role to expand my mind, in a team that loves developing great software as much as it loves developing great people.
 
 ## Skills
 
 #### Communication
 
-- Teaching as tennis coach, Teaching assistant and most recently as personal tutor
-- understanding individual character and tailoring communication to suit them, esp diverse behaviour of (Learning Difficulties)
-- developed personal intuition, patience and understanding, no student received below an A
-
+When teaching, either as a Tennis Coach, Teaching Assistant, or most recently as a Personal Tutor, understanding the individual's character, and tailoring my communication to suit them was necessary for success. I encountered a range of challenges, from the diverse and unpredictable behaviour of students with Learning Difficulties, to explaining the more abstract themes of classic literature to young minds. These helped me develop a personal intuition, patience and understanding.  
 
 #### Analysis
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- Property Management: - Sift through large amounts of legal documents and client information to
-
-accurately maintain client relations -
-
-- Organise raw information, data or legal jargon, and translate technical info into terms customer can understand
+When working in Property Management, I had to sift through large amounts of client information and legal documents. Figuring out how best to organise the client information, and entering it into the company software was crucial in ensuring client relations ran smoothly. It also meant that raw information in the form of data, or legal jargon, was readily available and understandable for both staff and clients.
 
 
 #### Adaptable
 
-- In my work so far I have dealt with a range of new environments and personalities. From handling demanding parents and each students' individual obstacles when working in education, to difficult tenants and complex legal documents in property management, each area of work presented a variety of problems turned opportunities through patience and careful learning from fellow staff. I see new situations and people as a chance to grow.
+In my work so far I have dealt with a range of new environments and personalities. From handling demanding parents and each students' individual obstacles when working in education, to difficult tenants and complex legal documents in property management, each area of work presented a variety of problems turned opportunities through patience and careful learning from fellow staff. I see new situations and people as a chance to grow.
 
 
 ## Education
@@ -49,7 +39,13 @@ accurately maintain client relations -
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Self-Employed** (start_date to end_date)    
+*Tutoring*  
+**UrbanPoint Property Management** (start_date to end_date)   
+*Accounts Analyst*  
+**St. Joseph's Catholic Primary School** (start_date to end_date)   
+*Year 5 Teaching Assistant*
+**Waitrose** (start_date to end_date)   
+*Food Service Partner*
+**New Malden Tennis, Squash, and Badminton Club** (start_date to end_date)   
+*Tennis Coach*
