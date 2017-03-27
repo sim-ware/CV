@@ -1,8 +1,8 @@
 ## Samir Gossain
 
-I a former self-employed tutor with experience in Primary School Education and Property Management. I learnt to code to stay relevant in an increasingly digitised world. I was introduced to the wonders of software craftsmanship by the passionate staff and students of Makers Academy
+I am full-stack Junior Developer with experience in Primary School Education and Property Management. I learnt to code to stay relevant in an increasingly digitised world, tutoring English by day and coding by night, until I was introduced to the wonders of software craftsmanship by the passionate staff and students of Makers Academy.
 
-I'm looking for a Full Stack(overflow) Junior Developer role to expand my mind, in a team that loves developing great software as much as it loves developing great people.
+I'm looking for a Junior Developer role to expand my mind, in a team that loves developing great software as much as it loves developing great people.
 
 ## Skills
 
@@ -24,25 +24,20 @@ In my work so far I have dealt with a range of new environments and personalitie
 
 #### Makers Academy (02/01/2017 to 25/03/2017)
 
-- Curiosity and hungry passion for code
+- Curiosity and passion for code
 - Independent learner and problem-solver
 - OOP, TDD, SOLID, MVC, DDD
 - Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
+- Ruby, Rails, Javascript, Sinatra
+- Rspec, Jasmine, Cucumber
+
 
 ##### Projects
-Title | Description | Development Timeframe | Technology | Testing
-------------------------------------------------------------------
-Fix City | Council report app | 1 week | Google API, Javascript, Ruby on Rails | Capybara, RSpec
-Capy B'n'B | Guest Room booking website | 1 week | Ruby, Javascript | Capybara, Jasmine, RSpec
-PineappleGram | Instagram clone | 1 week | Ruby on Rails | Capybara, RSpec
-
-| TITLE         | DESCRIPTION                | DEVELOPMENT TIME  |TECHNOLOGY                             |TESTING          | 		
-|---------------|----------------------------|-----------------------------------------------------------------------------| 		
-| Fix City      | Council Report App         | 1 week            | Google API, Javascript, Ruby on Rails |Capybara, RSpec  | 		
-| Capy B'n'B    | Guest Room Booking Website | 1 week            | Ruby, Javascript                      |Capybara, RSpec  | 		
-| PineappleGram | Instagram-like Website     | 1 week            | Ruby on Rails                         |Capybara, RSpec  |
+| Project  | Info   | Technologies  |
+| -------- |--------| ------------- |
+|[Fix City](https://github.com/KatHicks/fix-city)|
+An app that uploads pictures of urban problems to report to council| Rails, JS **Testing:** RSpec, Capybara|
+| [PainLess](https://github.com/shezdev/final_project)| A chronic pain management app| Ruby-on-Rails, PostgreSQL, JavaScript. **Testing**: RSpec, Capybara,  Cucumber|
 
 
 #### University College London (Sep 2011 to Jun 2014)
@@ -63,15 +58,12 @@ Organised client accounts and data, input housing legal contract information int
 
 **St. Joseph's Catholic Primary School** (October 2014 to January 2015)   
 *Year 5 Teaching Assistant*
-
 Taught Maths and Literacy to Year 5 students, with focus on supporting those with learning difficulties.
 
 **Waitrose** (November 2010 to March 2011)   
 *Food Service Partner*
-
 Worked full-time serving on the fresh food counters, handling customer requests and enquiries and maintaining an organised an attractive counter-front.
 
 **New Malden Tennis, Squash, and Badminton Club** (July 2007 to July 2009)   
 *Tennis Coach*
-
 Coached students aged 4 - 18 every Saturday.
