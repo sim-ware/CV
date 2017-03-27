@@ -1,6 +1,6 @@
 ## Samir Gossain
 
-I am full-stack Junior Developer with experience in Primary School Education and Property Management. I learnt to code to stay relevant in an increasingly digitised world, tutoring English by day and coding by night, until I was introduced to the wonders of software craftsmanship by the passionate staff and students of Makers Academy.
+I am a full-stack Junior Developer with experience in Primary School Education and Property Management. I learnt to code to stay relevant in an increasingly digitised world, tutoring English by day and coding by night, until I was introduced to the wonders of software craftsmanship by the passionate staff and students of Makers Academy.
 
 I'm looking for a Junior Developer role to expand my mind, in a team that loves developing great software as much as it loves developing great people.
 
@@ -35,8 +35,7 @@ In my work so far I have dealt with a range of new environments and personalitie
 ##### Projects
 | Project  | Info   | Technologies  |
 | -------- |--------| ------------- |
-|[Fix City](https://github.com/KatHicks/fix-city)|
-An app that uploads pictures of urban problems to report to council| Rails, JS **Testing:** RSpec, Capybara|
+|[Fix City](https://github.com/KatHicks/fix-city)| An app that uploads pictures of urban problems to report to council| Rails, JS **Testing:** RSpec, Capybara|
 | [PainLess](https://github.com/shezdev/final_project)| A chronic pain management app| Ruby-on-Rails, PostgreSQL, JavaScript. **Testing**: RSpec, Capybara,  Cucumber|
 
 
