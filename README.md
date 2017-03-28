@@ -35,8 +35,8 @@ In my work so far I have dealt with a range of new environments and personalitie
 ##### Projects
 | Project  | Info   | Technologies  |
 | -------- |--------| ------------- |
-|[Fix City](https://github.com/KatHicks/fix-city)| An app that uploads pictures of urban problems to report to council| Rails, JS **Testing:** RSpec, Capybara|
-| [PainLess](https://github.com/shezdev/final_project)| A chronic pain management app| Ruby-on-Rails, PostgreSQL, JavaScript. **Testing**: RSpec, Capybara,  Cucumber|
+|[Fix City](https://github.com/sim-ware/fix-city)| An app that uploads pictures of urban problems to report to council| Rails, JS **Testing:** RSpec, Capybara|
+| [PainLess](https://github.com/sim-ware/final_project)| A chronic pain management app| Ruby-on-Rails, PostgreSQL, JavaScript. **Testing**: RSpec, Capybara,  Cucumber|
 
 
 #### University College London (Sep 2011 to Jun 2014)
